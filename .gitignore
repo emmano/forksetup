@@ -1,13 +1,8 @@
 .gradle
 /local.properties
-/.idea/workspace.xml
-/.idea/libraries
+/.idea
 .DS_Store
 /build
 /captures
-/gradle
-/.idea
 *.iml
-/ParseUI-Login/build
-/ParseUI-Widget/build
 
